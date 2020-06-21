@@ -1,0 +1,14 @@
+Dependencies :
+	pyttsx3
+	os
+	datetime
+	platform
+	sockwt
+	speech_recognition
+	random
+	wikipedia
+	smtplib
+	email
+	webbrowser
+	pyautogui
+	pyjokes

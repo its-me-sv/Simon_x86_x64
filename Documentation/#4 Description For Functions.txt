@@ -1,0 +1,41 @@
+User Defined Functions:
+	Simon_Talk(TEXT_TO_TALK):
+		Prints And Talks The String Passed As Argument
+
+	Current_Time():
+		Prints And Tells The Current Time
+
+	Current_Date():
+		Prints And Tells The Current Date
+
+	Welcome_Message():
+		Greets The User With Good Morning Or Good Afternoon 
+		Depending Upon The Time
+
+	Internet_Checking():
+		Checks Whether The User Is Connceted To The Internet Or
+		Not.
+
+	Bye_Message():
+		Prints And Tells  Bye Message To User And Tells Good Night
+		If It Is Night
+
+	User_Input():
+		Gets The Voice Of The User Through Microphone And Converts 
+		It To Text And Returns It
+
+	Wikipedia_Result(matter):
+		Tells The Wikipedia Result For The Given Query Matter
+
+	Mail_Send():
+		Opens Up The Email Form
+
+	Search_The_Web(content):
+		Opens The Default Web Browser With The Search Result Of The
+		Given content
+
+	Take_Screenshot():
+		Takes Screenshot And Saves It To The Pictures Folder Of The User
+
+	Tell_Joke():
+		Prints And Tells An Random Joke

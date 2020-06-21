@@ -1,0 +1,23 @@
+#1 
+	Command History : Prints All The Previous Commands Given To Simmon
+
+#2 
+	Date And Time : Tells The Current Date And Time
+
+#3
+	Who Is / What Is : Tells The Wikipedia Result
+
+#4
+	Send Email : Displays The Email Form
+
+#5
+	Joke : Tells An Random Joke
+
+#6 
+	shutdown / restart/ log out : Performs The System Power Functions
+
+#7 
+	abort : Aborts Any Live System Process
+
+#8
+	Take Screenshot : Takes Screenshot 
