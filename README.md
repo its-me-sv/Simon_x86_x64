@@ -21,9 +21,9 @@
 <h3 id="docs">Documentation</h3>
 The File ("Documentation.rar") Includes The Documentation For The Following:<br>
 <ul>
-    <li>Special Features</li>
+    <li>Cheat Sheet</li>
+    <li>Dependencies</li>
     <li>Exceptions</li>
-    <li>Classes</li>
     <li>Functions</li>
 </ul><hr>
 <h3 id="downloads">Downloads</h3>
