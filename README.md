@@ -16,7 +16,7 @@
 		<li>Take Screenshot : Takes Screenshot</li>
 </ol><hr>
 <h3 id="glry">Gallery</h3>
-<img src="https://github.com/its-me-sv/Bank_x64_x86/raw/master/Snips/1.PNG">
+<img src="https://github.com/its-me-sv/Simon_x86_x64/blob/master/Snips/1.PNG">
 <hr>
 <h3 id="docs">Documentation</h3>
 The File ("Documentation.rar") Includes The Documentation For The Following:<br>
