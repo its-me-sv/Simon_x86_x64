@@ -1,3 +1,0 @@
-Exceptions
-	NoInternet:
-		This Exception Is Raised When The User Is Not Connected To The Internet
